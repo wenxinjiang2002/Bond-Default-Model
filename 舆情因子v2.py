@@ -1,19 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jan 23 14:29:37 2024
 
 基于舆情因子.py改动实现增量跑批
 
-@author: erlu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  4 17:04:27 2023
-
-data_preprocess - 舆情数据预处理，打分，衰减，分值区间缩放至[0,100]
-
-@author: erlu
+@author: Jiang
 """
 import datetime
 import pandas as pd
