@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 26 13:35:40 2024
-
-主体等级平滑
-
-@author: erlu
-"""
 import pandas as pd
 import numpy as np
 
