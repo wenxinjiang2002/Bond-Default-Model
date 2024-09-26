@@ -1,17 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 27 16:11:01 2023
-
-基于decay1121.py 将lambda函数矩阵化，优化运行速度
-price结果和未矩阵化前一致，全量主体运行时间约9min
-news结果不一致，需修改
-
-@author: erlu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 21 11:48:01 2023
 
 衰减1103.py整合
 
