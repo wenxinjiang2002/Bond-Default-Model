@@ -1,4 +1,5 @@
-# Public Bond Default Risk Scoring Model (债券违约风险评分模型)
+# Public Bond Default Risk Scoring Model (债券违约风险评分模型) 
+[README] in progress
 
 ## 1. Summary (Must read)
 
