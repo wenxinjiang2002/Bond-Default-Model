@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 26 14:53:49 2024
-
-@author: erlu
-"""
 import datetime
 import numpy as np
 import pandas as pd
