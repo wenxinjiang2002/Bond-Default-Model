@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 25 11:30:19 2024
-
-获取当前ib预警的主体和债券范围
-
-@author: erlu
-"""
-
 import pandas as pd
 import pymysql
 import datetime
