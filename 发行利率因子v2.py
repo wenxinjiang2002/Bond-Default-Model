@@ -1,22 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jan 23 11:05:20 2024
 
 基于发行利率因子.py改动实现增量跑批
-
-@author: erlu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  4 17:19:21 2023
-
 data_preprocess - 发行利率数据预处理，分箱
-
-20231214 update:
     bond_info_20231214: 全部债券（未到期）
 
-@author: erlu
+@author: Jiang
 """
 import datetime
 import pandas as pd
