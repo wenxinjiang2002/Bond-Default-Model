@@ -1,20 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 22 16:27:28 2023
-
-基于价格因子.py改动实现增量跑批
-
-@author: erlu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  4 17:13:14 2023
-
-data_preprocess - 价格数据预处理，打分，衰减，分值区间压缩至[0,100]
-
-@author: erlu
-"""
 import datetime
 import pandas as pd
 import numpy as np
