@@ -1,33 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 25 19:08:26 2024
-
-基于entity_relationship_v3.py改动实现增量跑批
-
-@author: erlu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 16 15:26:44 2024
-
-增加关联紧密程度, 目前原始数据仅包括股东&担保
-
-    资产网络{relation=1，5}
-
-@author: erlu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 15 15:59:54 2024
-
-关联关系传导
-    资产网络{relation=1，5，7}
-    交易网络{relation=8，9}
-
-@author: erlu
-"""
 import pandas as pd
 import datetime
 import numpy as np
