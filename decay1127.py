@@ -15,7 +15,7 @@ Created on Tue Nov 21 11:48:01 2023
 
 衰减1103.py整合
 
-@author: erlu
+@author: Jiang
 """
 import pandas as pd
 import datetime
