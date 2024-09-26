@@ -1,19 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 22 15:23:16 2024
-
 基于基本面因子.py改动实现增量跑批
-
-@author: erlu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  4 17:32:51 2023
-
 data_preprocess - 基本面数据预处理，分箱
 
-@author: erlu
+@author: Jiang
 """
 import datetime
 import pandas as pd
