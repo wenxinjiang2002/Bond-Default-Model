@@ -8,6 +8,7 @@ This repository contains the code for replicating a bond default risk scoring mo
 The model uses a logistic regression approach to automatically classify a default risk level for all bond on each analysis date. The final score is smoothed to ensure consistency over time and for better use for the clients.
 
 All rights reserved. This code is proprietary and confidential. You may not use, copy, modify, or distribute this code without explicit permission from the author.
+(The field names are masked and pairwise dictionary will not be provided for privacy protection and contract agreement)
 
 ## 2. Overview of the Public Bond Warning Model Process
 
